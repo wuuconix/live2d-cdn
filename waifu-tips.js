@@ -153,7 +153,7 @@ function loadWidget(config) {
 		if (modelId === null) {
 			modelId = 0; // 模型 ID
 		}
-		loadModel(modelId, " ");
+		loadModel(modelId, "");
 		fetch(waifuPath)
 			.then(response => response.json())
 			.then(result => {
