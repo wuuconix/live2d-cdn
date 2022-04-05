@@ -5,7 +5,9 @@
 
 代码魔改(~~复制粘贴~~)自 [https://github.com/stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget)
 
-> 主要删除了apiPath这种调用live2d模型的代码。
+> 删除了apiPath这种调用live2d模型的代码
+>
+> 修改了waifu.css使模型出现在右侧
 
 模型来自 [https://github.com/imuncle/live2d](https://github.com/imuncle/live2d)
 
