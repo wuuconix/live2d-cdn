@@ -10,3 +10,16 @@
 模型来自 [https://github.com/imuncle/live2d](https://github.com/imuncle/live2d)
 
 > 目前该仓库内置模型列表：Umaru
+
+## 使用方法
+
+在html文件中引入一个css文件和一个js文件。
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+<script src="https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/autoload.js"></script>
+```
+
+## 在线预览
+
+[https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/index.html](https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/index.html)
