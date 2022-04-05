@@ -22,4 +22,4 @@
 
 ## 在线预览
 
-[https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/index.html](https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/index.html)
+[http://wuuconix.tk/live2d-cdn/](http://wuuconix.tk/live2d-cdn/)
