@@ -153,7 +153,7 @@ function loadWidget(config) {
 		if (modelId === null) {
 			modelId = 0; // 模型 ID
 		}
-		loadModel(modelId, "Hi");
+		loadModel(modelId, "");
 		fetch(waifuPath)
 			.then(response => response.json())
 			.then(result => {
@@ -197,7 +197,8 @@ function loadWidget(config) {
 
 	async function loadModel(modelId, message) {
 		localStorage.setItem("modelId", modelId);
-		showMessage(message, 4000, 10);
+		if (message != "")
+			showMessage(message, 4000, 10);
 		if (!modelList) await loadModelList();
 		const target = randomSelection(modelList.models[modelId]);
 		console.log(`${cdnPath}model/${target}/index.json`)
