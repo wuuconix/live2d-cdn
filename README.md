@@ -8,6 +8,8 @@
 > 删除了apiPath这种调用live2d模型的代码
 >
 > 修改了waifu.css使模型出现在右侧
+>
+> 修改了看板娘的z-index使得她出现在页面最上层
 
 模型来自 [https://github.com/imuncle/live2d](https://github.com/imuncle/live2d)
 
@@ -19,7 +21,7 @@
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-<script src="https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/wuuconix/live2d-cdn@main/autoload.js"></script>
 ```
 
 ## 在线预览
