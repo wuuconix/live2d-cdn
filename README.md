@@ -26,4 +26,4 @@
 
 ## 在线预览
 
-[https://wuuconix.tk/live2d-cdn/](https://wuuconix.tk/live2d-cdn/)
+[https://wuuconix.github.io/live2d-cdn/](https://wuuconix.github.io/live2d-cdn/)
