@@ -1,5 +1,5 @@
-const live2d_path = "/gh/wuuconix/live2d-cdn@latest/";
-const modelTextures = "/gh/wuuconix/live2d-cdn@latest/model/xiaomai/umaru2048/texture_00.png";
+const live2d_path = "https://fastly.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/";
+const modelTextures = "https://fastly.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/model/xiaomai/umaru2048/texture_00.png";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
