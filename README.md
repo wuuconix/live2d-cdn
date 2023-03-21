@@ -19,7 +19,7 @@
 在html文件中引入一个js文件即可。
 
 ```html
-<script src="https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.6/autoload.js"></script>
+<script src="https://jsd.onmicrosoft.cn/gh/wuuconix/live2d-cdn@v0.1.7/autoload.js"></script>
 ```
 
 ## 感谢

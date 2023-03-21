@@ -1,5 +1,6 @@
 version=$1
 message=$2
+npm run build
 # edit autoload.js
 sed -i "s/v[0-9].[0-9].[0-9]/v$version/g" autoload.js
 # edit index.html
