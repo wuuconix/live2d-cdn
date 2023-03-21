@@ -12,12 +12,14 @@
 
 模型来自 [imuncle/live2d](https://github.com/imuncle/live2d)
 
++ 压缩了小埋的texture图片，缩短加载时间
+
 ## 使用方法
 
 在html文件中引入一个js文件即可。
 
 ```html
-<script src="https://fastly.jsdelivr.net/gh/wuuconix/live2d-cdn@latest/autoload.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/wuuconix/live2d-cdn@v0.1.3/autoload.js"></script>
 ```
 
 ## 在线预览
