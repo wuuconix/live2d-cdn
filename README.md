@@ -2,7 +2,7 @@
 
 内置小埋模型的live2d-widget
 
-<img src="https://gzw.sinaimg.cn/large/007YVyKcly1hc9lbgfb67j30li0mpk0i.jpg" width="200px">
+<img src="https://sina-vercel.wuuconix.link/large/007YVyKcly1hc9lbgfb67j30li0mpk0i.jpg" width="200px">
 
 在线预览: [https://wuuconix.github.io/live2d-cdn/](https://wuuconix.github.io/live2d-cdn/)
 ## 来源
